@@ -19,9 +19,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ahmed-mannan&theme=radical&hide_border=true&cache_seconds=86400" alt="ahmed-mannan's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
